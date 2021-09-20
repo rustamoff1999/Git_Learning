@@ -11,7 +11,7 @@ At the moment I study iOS Development with Udemy Course "iOS & Swift - The Compl
 * Using XCode for Source Control
 * Forking and Pull Requests
 ## References
-* [Optionals](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+* [Udemy Course](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
 ## Contacts
 * [Linkedin](https://www.linkedin.com/in/fuad-rustamov-8133b4190/)

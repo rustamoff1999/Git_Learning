@@ -1,5 +1,5 @@
 # Git, GitHub and Version Control Deep Learning(Command Line)
-At the moment I study iOS Development with Udemy Course "iOS & Swift - The Complete iOS App Development Bootcamp" by Angela Yu and one of the Topics is Git, GitHub and Version Control. I used **_Command Line_** Interface during learning it and you can see another repository in my profile where I did almost same things but using the **_GitHub_** Interface.  
+At the moment I study iOS Development with Udemy Course "iOS & Swift - The Complete iOS App Development Bootcamp" by Angela Yu and one of the Topics is Git, GitHub and Version Control. I used **_Command Line_** Interface during learning it and you can find two other repositories in my profile where I did almost same things but using the **_Xcode_** and **_GitHub_** Interfaces as well.  
 ### Sections that are covered in this topic
 
 * Introduction to Version Control and Git

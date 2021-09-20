@@ -1,4 +1,4 @@
-# Git, GitHub and Version Control Deep Learning
+# Git, GitHub and Version Control Deep Learning(Terminal)
 At the moment I study iOS Development with Udemy Course "iOS & Swift - The Complete iOS App Development Bootcamp" by Angela Yu and one of the Topics is Git, GitHub and Version Control.  
 ### Sections that are covered in this topic
 
